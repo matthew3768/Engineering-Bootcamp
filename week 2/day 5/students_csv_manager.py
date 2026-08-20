@@ -32,7 +32,7 @@ while True:
     if choice == '1':
         add_student()
     elif choice == '2':
-        view_student()
+        view_students()
     elif choice == '3':
         print('Have a good rest of your day!')
         break
